@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/*Beyond the below comments, I also, per instructions, made css more efficient by "consolidating selectors and properties, organizing them to follow the semantic structure of the HTML elements." */
 /*
  * BODY RELATED CSS
  *
@@ -62,14 +63,12 @@ p {
     font-size: 16px;
 }
 
-/* this is the background image in the below curly brackets*/
-.hero {
-    height: 800px;
+/* this is the background image in the below curly brackets; created new css code and image tag in order to add alt text in html*/
+
+#background-image img{
+    height: 800px; 
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .benefits {
