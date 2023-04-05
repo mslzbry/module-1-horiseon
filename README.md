@@ -11,7 +11,7 @@ Then, I consolidated the navigation items in css to use one class (nav-item), ra
 
 Next, I added id="search-engine-optimization" for clickability and linking to the respective area on the website, similar to other links on the page.
 
-After scanning the html some more, I changed div to nav in the header section. Ultimately, I decided to keep this within the header code, as it is meant to be located there on the website.  
+After scanning the html some more, I changed div to nav in the header section. Ultimately, I decided to keep this within the header code, as it is meant to be located there on the website. Also, while inspecting with devtools, I noticed the sidebar had a low/red accessibility score, so I changed the background color to the same blue #0072bb as the main section. 
 
 Throughout this entire process, I added relevant comments in both the html and css; these comments act as snippets of the general outline of the content herein. Moreover, in css, I took the appropriate action to compile related code in respective sections and notated each (header, body, nav bar, footer) ultimately organizing them to follow the semantic structure of the HTML elements. 
 
