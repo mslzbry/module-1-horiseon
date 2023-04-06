@@ -1,4 +1,6 @@
 # Module 1 Horiseon Website Project
+## Description:
+
 This project was cloned from: https://github.com/coding-boot-camp/urban-octo-telegram 
 
 For this project, I was instructed to design the website to improve accessibility and refactor related code; from Canvas Module 1 description: "…make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page." My goal is to address the above points, along with proper deployment, and application and repo quality. 
@@ -14,5 +16,13 @@ Next, I added id="search-engine-optimization" for clickability and linking to th
 After scanning the html some more, I changed div to nav in the header section. Ultimately, I decided to keep this within the header code, as it is meant to be located there on the website. Also, while inspecting with devtools, I noticed the sidebar had a low/red accessibility score, so I changed the background color to the same blue #0072bb as the main section. 
 
 Throughout this entire process, I added relevant comments in both the html and css; these comments act as snippets of the general outline of the content herein. Moreover, in css, I took the appropriate action to compile related code in respective sections and notated each (header, body, nav bar, footer) ultimately organizing them to follow the semantic structure of the HTML elements. 
+
+## Link:
+
+Link to deployed application: https://mslzbry.github.io/module-1-horiseon/
+
+## Screenshot:
+
+![Alt text](assets/images/salisbury_module1.png "screenshot")
 
 Further references for this project: https://en.wikipedia.org/wiki/Agile_software_development
